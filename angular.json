@@ -28,6 +28,7 @@
               "src/assets"
             ],
             "styles": [
+              "src/assets/vendor/semantic.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -91,6 +92,7 @@
               "src/assets"
             ],
             "styles": [
+              "src/assets/vendor/semantic.min.css",
               "src/styles.css"
             ],
             "scripts": []
